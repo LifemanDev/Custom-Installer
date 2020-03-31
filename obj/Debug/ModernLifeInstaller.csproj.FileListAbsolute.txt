@@ -1,0 +1,12 @@
+C:\Users\gunna\Source\Repos\ModernLifeInstaller\ModernLifeInstaller\bin\Debug\ModernLifeInstaller.exe.config
+C:\Users\gunna\Source\Repos\ModernLifeInstaller\ModernLifeInstaller\bin\Debug\ModernLifeInstaller.exe
+C:\Users\gunna\Source\Repos\ModernLifeInstaller\ModernLifeInstaller\bin\Debug\ModernLifeInstaller.pdb
+C:\Users\gunna\Source\Repos\ModernLifeInstaller\ModernLifeInstaller\obj\Debug\ModernLifeInstaller.csprojAssemblyReference.cache
+C:\Users\gunna\Source\Repos\ModernLifeInstaller\ModernLifeInstaller\obj\Debug\ModernLifeInstaller.Form1.resources
+C:\Users\gunna\Source\Repos\ModernLifeInstaller\ModernLifeInstaller\obj\Debug\ModernLifeInstaller.Properties.Resources.resources
+C:\Users\gunna\Source\Repos\ModernLifeInstaller\ModernLifeInstaller\obj\Debug\ModernLifeInstaller.csproj.GenerateResource.cache
+C:\Users\gunna\Source\Repos\ModernLifeInstaller\ModernLifeInstaller\obj\Debug\ModernLifeInstaller.csproj.CoreCompileInputs.cache
+C:\Users\gunna\Source\Repos\ModernLifeInstaller\ModernLifeInstaller\obj\Debug\ModernLifeInstaller.exe
+C:\Users\gunna\Source\Repos\ModernLifeInstaller\ModernLifeInstaller\obj\Debug\ModernLifeInstaller.pdb
+C:\Users\gunna\Source\Repos\ModernLifeInstaller\ModernLifeInstaller\obj\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\gunna\Source\Repos\ModernLifeInstaller\ModernLifeInstaller\obj\Debug\ModernLifeInstaller.csproj.ResolveComReference.cache
